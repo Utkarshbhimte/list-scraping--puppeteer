@@ -1,0 +1,23 @@
+{
+  "name": "investor-list-scraping",
+  "version": "0.0.1",
+  "description": "scraping http://trak.in/india-startup-funding-investment-2015/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "node",
+    "investers",
+    "scraping",
+    "india",
+    "startup"
+  ],
+  "author": "utkarshbhimte95@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
